@@ -1,4 +1,4 @@
-**Capturing Table object changes using Excdl VBA**
+**Capturing Table object changes using Excel VBA**
 
 ![image](https://github.com/MrAnalyticals/ExcelVBA/assets/47678539/3a54a924-28e2-4f67-b603-2521170fe28e)
 
