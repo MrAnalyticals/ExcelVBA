@@ -1,5 +1,7 @@
-**Excel VBA Tetris
-**
+**Excel VBA Tetris**
+
+
+
 Would you like to play Tetris in Excel Desktop? Well now you can. See my code repo on GitHub. The workbook is included!  
 
 
